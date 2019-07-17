@@ -1,4 +1,6 @@
 
+//Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
+
 let notas = [7, 8, 10, 9];
 
 let media = 0;
